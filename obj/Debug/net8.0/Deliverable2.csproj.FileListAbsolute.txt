@@ -12,3 +12,4 @@ C:\Users\Administrator\source\repos\Deliverable2\obj\Debug\net8.0\refint\Deliver
 C:\Users\Administrator\source\repos\Deliverable2\obj\Debug\net8.0\Deliverable2.pdb
 C:\Users\Administrator\source\repos\Deliverable2\obj\Debug\net8.0\Deliverable2.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\Deliverable2\obj\Debug\net8.0\ref\Deliverable2.dll
+C:\Users\Administrator\source\repos\Deliverable2\obj\Debug\net8.0\Deliverable2.sourcelink.json
